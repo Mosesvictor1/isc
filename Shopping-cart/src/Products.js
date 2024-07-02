@@ -5,35 +5,35 @@ export const productsData = [
     id: 1,
     title: "moses",
     price: 2000,
-    imageUrl: "./picsturss/c.jpg",
+    imageUrl: "/Images/studio2.jpg",
   },
 
   {
     id: 2,
     title: "Carton Astronaut T-Shirt",
     price: 300,
-    imageUrl: "./picsturss/cc.jpg",
+    imageUrl: "/Images/studio2.jpg",
   },
 
   {
     id: 3,
     title: "Carton Astronaut T-Shirt",
     price: 300,
-    imageUrl: "./picsturss/ccc.jpg",
+    imageUrl: "/Images/studio2.jpg",
   },
 
   {
     id: 4,
     title: "Carton Astronaut T-Shirt",
     price: 95,
-    imageUrl: "./picsturss/cccc.jpg",
+    imageUrl: "/Images/studio2.jpg",
   },
 
   {
     id: 5,
     title: "Carton Astronaut T-Shirt",
     price: 3500,
-    imageUrl: "./picsturss/ccccc.jpg",
+    imageUrl: "/Images/studio2.jpg",
   },
 
   {
