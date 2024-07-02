@@ -5,8 +5,7 @@ export const productsData = [
     id: 1,
     title: "moses",
     price: 2000,
-    imageUrl:
-      "images/c1.jpg",
+    imageUrl: "images/c1.jpg",
   },
 
   {
@@ -34,8 +33,7 @@ export const productsData = [
     id: 5,
     title: "Carton Astronaut T-Shirt",
     price: 3500,
-    imageUrl:
-    "images/c5.jpg",
+    imageUrl: "images/c5.jpg",
   },
 
   {
